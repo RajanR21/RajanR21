@@ -1,11 +1,19 @@
 
 
-- 👋 Hi, I’m @RajanR21
+- 👋 Hi, I’m Rajan Ravisaheb
 - 👀 I’m interested in web development , software development related areas.
-- 🌱 I’m currently learning new technologies and enhasing my skills.
+- 🌱 I’m currently learning new technologies and enhancing my skills.
 - 💞️ I’m looking for an internship.
 - ⚡ Fun fact: I am a hardcore gamer.
-<!--- 📫 How to reach me  --->
+
+ 📫 How to reach me  
+ <div >
+<a href="https://www.linkedin.com/in/rajan-ravisaheb-010431213/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</div>  
+
+<br />
 
 <!---
 RajanR21/RajanR21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +29,8 @@ You can click the Preview link to take a look at your changes.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RajanR21&langs_count=10&theme=tokyonight)]()
 
 ### Technologies used : 
-<div align="center">  
+<br />
+<div >  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  

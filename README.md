@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Rajan Ravisaheb
 - 👀 I’m interested in web development , software development related areas.
 - 🌱 I’m currently learning new technologies and enhancing my skills.
-- 💞️ I’m looking for an internship.
 - ⚡ Fun fact: I am a hardcore gamer.
 
  📫 How to reach me  

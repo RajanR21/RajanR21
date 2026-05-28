@@ -7,7 +7,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/rajan-ravisaheb/"><img src="https://img.shields.io/badge/LinkedIn-Rajan%20Ravisaheb-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Rajan_R/"><img src="https://img.shields.io/badge/LeetCode25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="mailto:rajanr1707@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/RajanR21"><img src="https://komarev.com/ghpvc/?username=RajanR21&color=58A6FF&style=for-the-badge&label=Profile+Views" /></a>
 

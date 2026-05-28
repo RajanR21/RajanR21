@@ -1,54 +1,171 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajan%20Ravisaheb&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20M.Eng.%20EE%26IT%20%7C%20AI%20%26%20Web&descAlignY=55&descAlign=50&descSize=18&descColor=a8d8ea"/>
 
+<div align="center">
 
-- 👋 Hi, I’m Rajan Ravisaheb
-- 👀 I’m interested in web development , software development related areas.
-- 🌱 I’m currently learning new technologies and enhancing my skills.
-- ⚡ Fun fact: I am a hardcore gamer.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=TypeScript+%7C+React+%7C+Next.js+%7C+Node.js;18+months+professional+SWE+%40+Nice+Solutions+GmbH;Building+AI-powered+production+systems;M.Eng.+Electrical+Engineering+%26+IT+%40+TH+Rosenheim;ML+for+Engineers+%E2%80%94+FAU+Erlangen+(Grade+1.3)" alt="Typing SVG" />
 
- 📫 How to reach me  
- <div >
-<a href="https://www.linkedin.com/in/rajan-ravisaheb-010431213/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+<br/>
 
-<br />
+[![Profile Views](https://komarev.com/ghpvc/?username=RajanR21&color=58A6FF&style=flat-square&label=Profile+Views)](https://github.com/RajanR21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajan%20Ravisaheb-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-ravisaheb/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rajan__R-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajan_R/)
 
-<!---
-RajanR21/RajanR21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-- My Github Stats : 
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RajanR21&count_private=true&theme=tokyonight&showicons=true)]()
-
-- Languages Used :
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RajanR21&langs_count=10&theme=tokyonight)]()
-
-### Technologies used : 
-<br />
-<div >  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a> 
-<br /> 
-<br /> 
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
-  
-<br/>  
+---
 
+## 👨‍💻 About Me
+
+```typescript
+const rajan = {
+  name:       "Rajan Ravisaheb",
+  location:   "Rosenheim, Bavaria 🇩🇪",
+  education:  "M.Eng. Electrical Engineering & IT — TH Rosenheim (2025–present)",
+  cert:       "Machine Learning for Engineers I — FAU Erlangen-Nürnberg (Grade 1.3)",
+  experience: "18 months professional SWE @ Nice Solutions GmbH",
+  focus:      ["Full Stack Development", "AI/LLM Integration", "Production Systems"],
+  languages:  ["English 🇬🇧 (Fluent)", "German 🇩🇪 (B1)", "Hindi 🇮🇳 (Native)"],
+  funFact:    "Hardcore gamer 🎮 — debugging code and boss fights are basically the same thing",
+};
+```
+
+---
+
+## 🚀 Currently
+
+- 🔭 Working on **AI-powered production systems** at Nice Solutions GmbH — TypeScript / Next.js / React
+- 🤖 Shipping **LLM + RAG pipelines** in production (Mistral AI OCR, Langchain)
+- 📚 Pursuing **M.Eng. in Electrical Engineering & IT** at TH Rosenheim
+- ⚡ Completed **ML for Engineers** at FAU Erlangen-Nürnberg — Grade **1.3**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & DevOps**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+
+**AI & Data**
+
+![Langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RajanR21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajanR21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RajanR21&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RajanR21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://lomigo-platform-v3.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajanR21&repo=lomigo-platform-v3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/RajanR21/EManager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajanR21&repo=EManager&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<div align="center">
+
+<a href="https://github.com/RajanR21/Book-My-Journey">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajanR21&repo=Book-My-Journey&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/RajanR21/Crypto_Bit">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=RajanR21&repo=Crypto_Bit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</a>
+
+</div>
+
+### 🔒 Production Work *(private repos @ Nice Solutions GmbH)*
+
+| Project | Stack | Live |
+|---|---|---|
+| **AI Document Parsing Pipeline** | TypeScript · Mistral AI · React-PDF · Node.js | Internal |
+| **Multi-tenant Donation SaaS** | Next.js · Payload CMS · PostgreSQL · Resend | [lomigo-platform-v3.vercel.app](https://lomigo-platform-v3.vercel.app) |
+| **Healthcare Information Portal** | Next.js · Payload CMS · TypeScript | [lieber-zu-hause.eu](https://lieber-zu-hause.eu) |
+| **AI Storytelling Platform** | TypeScript · Node.js · LLM Integration | Internal |
+
+---
+
+## 🎓 Education & Certifications
+
+| | |
+|---|---|
+| 🎓 **M.Eng. Electrical Engineering & IT** | TH Rosenheim · Mar 2025 – present |
+| 📜 **ML for Engineers I** — Grade **1.3** | FAU Erlangen-Nürnberg · WS 2025 · 5 ECTS |
+| 🎓 **B.E. Electronics & Communication Engineering** | Dharmsinh Desai University · 2020–2024 |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RajanR21&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Activity Graph"/>
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajan-ravisaheb/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajan_R/)
+[![Email](https://img.shields.io/badge/Email-rajanr1707@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajanr1707@gmail.com)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
